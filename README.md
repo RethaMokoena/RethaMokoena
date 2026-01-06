@@ -17,8 +17,8 @@ I enjoy building **robust Java backend systems** that are readable, testable, an
 ---
 
 ## 🔗 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00CED1?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-00CED1?style=for-the-badge&logo=gmail&logoColor=black)](mailto:YOUR_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00CED1?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/Yrethabile-mokoena)
+[![Email](https://img.shields.io/badge/Email-00CED1?style=for-the-badge&logo=gmail&logoColor=black)](mailto:rmokoena1909@gmail.com)
 
 ---
 
