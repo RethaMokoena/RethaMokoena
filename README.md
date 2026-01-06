@@ -1,48 +1,52 @@
 # Rethabile Mokoena
 
-🎓 BSc Computer Science (Final Year) — University of Pretoria  
-🧑‍💻 Graduate Software Engineer Candidate  
-🔧 Focus areas: backend engineering, systems programming, security, and cloud-oriented design
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
+</p>
 
-I’m interested in building **reliable, well-engineered software** that holds up under real production demands — where correctness, performance, and security matter.
+🎓 Final-year **BSc Computer Science** student — University of Pretoria  
+🧑‍💻 Graduate Software Engineer Candidate  
+⚙️ Backend • Systems • Security • Cloud-oriented Engineering  
+
+I enjoy building **robust backend systems** that prioritise correctness, performance, and security in real production environments.
 
 ---
 
-## 🔗 Reach Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00CED1?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-00CED1?style=for-the-badge&logo=gmail&logoColor=black)](mailto:YOUR_EMAIL@gmail.com)
 
 ---
 
 ## 🛠️ Technical Toolkit
 
 ### Programming Languages
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-00FFFF?style=for-the-badge&logo=openjdk&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00BFFF?style=for-the-badge&logo=c%2B%2B&logoColor=black)
+![Python](https://img.shields.io/badge/Python-20E0D6?style=for-the-badge&logo=python&logoColor=black)
 
-### Backend Development
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![RESTful Services](https://img.shields.io/badge/RESTful%20Services-000000?style=for-the-badge)
-![Authentication](https://img.shields.io/badge/Auth%20%26%20Access%20Control-black?style=for-the-badge)
+### Backend & Systems
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-00CED1?style=for-the-badge&logo=springboot&logoColor=black)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-00FFFF?style=for-the-badge&logoColor=black)
+![Authentication](https://img.shields.io/badge/Auth%20%26%20Security-20E0D6?style=for-the-badge&logoColor=black)
 
-### Data Storage
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00BFFF?style=for-the-badge&logo=postgresql&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-20E0D6?style=for-the-badge&logo=mysql&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-00CED1?style=for-the-badge&logo=mongodb&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-00FFFF?style=for-the-badge&logo=sqlite&logoColor=black)
 
-### Security & Low-Level Concepts
-- Secure password storage (hashing & salting)
-- Access control and authentication mechanisms
-- Direct interaction with network protocols (LDAP, SMTP)
-- Socket-based communication
+### Security & Networking
+- Secure credential storage (hashing & salting)
+- Authentication and access control
+- Protocol-level work (LDAP, SMTP)
+- Socket programming fundamentals
 
-### Engineering Tools
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-20E0D6?style=for-the-badge&logo=git&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-00CED1?style=for-the-badge&logo=github&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-00FFFF?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-00BFFF?style=for-the-badge&logo=docker&logoColor=black)
 
 ---
 
@@ -50,36 +54,37 @@ I’m interested in building **reliable, well-engineered software** that holds u
 
 **SafiPay — Digital Wallet & Payments Backend**  
 *Java · Spring Boot · PostgreSQL · REST · Security*  
-- Developed backend services for a wallet-based payment platform  
-- Implemented user authentication, balance tracking, and transaction handling  
+- Built backend services for a wallet-based payment platform  
+- Implemented authentication, balance management, and transaction logic  
 - Designed with scalability, data integrity, and fintech constraints in mind  
 
 **Applied Security Practicals**  
 *Java · SQLite*  
-- Explored password attacks and defence techniques  
-- Implemented secure credential storage and evaluated common weaknesses  
+- Investigated password attacks and defence mechanisms  
+- Implemented secure storage techniques and analysed common vulnerabilities  
 
 ---
 
-## 📈 GitHub Overview
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=transparent&include_all_commits=true&count_private=true)
+## 📈 GitHub Activity
 
-![](https://nirzak-streak-stats.vercel.app/?user=YOUR_GITHUB_USERNAME&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=transparent&title_color=00FFFF&text_color=9FEFEF&icon_color=00CED1&border_color=00CED1&include_all_commits=true&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=transparent&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=YOUR_GITHUB_USERNAME&theme=transparent&ring=00FFFF&fire=00CED1&currStreakLabel=00FFFF)
 
----
-
-## 🏅 Profile Achievements
-![](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-bg=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=transparent&title_color=00FFFF&text_color=9FEFEF&layout=compact)
 
 ---
 
-### 💬 Thought for Engineers
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🏅 GitHub Highlights
+![](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-bg=true)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=YOUR_GITHUB_USERNAME&icon=1&color=1)](https://visitcount.itsvg.in)
+### 💬 Engineering Insight
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
 
-<!-- Original content. CV-consistent. Backend & systems focused. -->
+---
+
+[![](https://visitcount.itsvg.in/api?id=YOUR_GITHUB_USERNAME&icon=2&color=00CED1)](https://visitcount.itsvg.in)
+
+<!-- Cyan theme. Original wording. Backend & systems focused. -->
