@@ -58,16 +58,19 @@ I enjoy building **robust Java backend systems** that are readable, testable, an
 
 ## 🧩 Selected Projects
 
+**FutureFeed — Social Media Platform Backend**  
+*Java · Spring Boot · PostgreSQL · REST*  
+- Designed and implemented a backend for a Twitter-like social platform  
+- Built user registration, authentication, and post management features  
+- Applied layered architecture and RESTful API design principles  
+
 **SafiPay — Digital Wallet & Payments Backend**  
 *Java · Spring Boot · PostgreSQL · REST*  
-- Built backend services using layered architecture  
-- Implemented user, wallet, and transaction flows  
-- Designed for extensibility, consistency, and real-world constraints  
+- Built backend services for a wallet-based payment platform  
+- Implemented user, wallet, and transaction management logic  
+- Designed for data consistency, scalability, and clean service boundaries  
 
-**Java Systems Practicals**  
-*Java*  
-- Implemented socket-based clients and protocol handlers  
-- Applied concurrency and structured I/O concepts  
+
 
 ---
 
