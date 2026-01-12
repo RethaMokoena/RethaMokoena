@@ -72,22 +72,6 @@ I enjoy building **robust Java backend systems** that are readable, testable, an
 
 
 
----
-
-## 📈 GitHub Activity
-
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=transparent&title_color=00FFFF&text_color=9FEFEF&icon_color=00CED1&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=YOUR_GITHUB_USERNAME&theme=transparent&ring=00FFFF&currStreakLabel=00FFFF)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=transparent&title_color=00FFFF&text_color=9FEFEF&layout=compact)
-
----
-
-## 🐍 Contribution Snake
-![snake gif](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ## 🏆 Achievements
 ![](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-bg=true)
