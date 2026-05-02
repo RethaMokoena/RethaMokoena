@@ -10,7 +10,7 @@
 
 🎓 Final-year **BSc Computer Science** student — University of Pretoria  
 ☕ Java-focused Graduate Software Engineer  
-⚙️ Backend systems • Distributed services • Cloud-ready design  
+⚙️ Backend systems • MicroServices services • Cloud-ready design  
 
 I enjoy building **robust Java backend systems** that are readable, testable, and designed to scale beyond coursework.
 
