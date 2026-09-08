@@ -186,12 +186,12 @@ Exploring
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=algolia&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=algolia&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RethaMokoena&show_icons=true&theme=algolia&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RethaMokoena&layout=compact&theme=algolia&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-bg=true&no-frame=true&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RethaMokoena&theme=algolia&no-bg=true&no-frame=true&row=1" />
 </p>
 
 ---
@@ -199,7 +199,7 @@ Exploring
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RethaMokoena&theme=react-dark&hide_border=true" />
 </p>
 
 ---
@@ -211,7 +211,7 @@ Exploring
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=00CED1" />
+  <img src="https://komarev.com/ghpvc/?username=RethaMokoena&style=for-the-badge&color=00CED1" />
 </p>
 
 <p align="center">
